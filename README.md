@@ -14,16 +14,9 @@ Our use of the AphasiaBank data was governed by the TalkBank consortium's data u
 Limitations exist regarding accents and dialect, which in turn would affect the scenarios in which a system based on our model could (and should) be used.
 It should also be noted that these models and any derived technology are not meant to be tools to diagnose medical conditions, a task best left to qualified clinicians.
 
+## Pre-trained Models
 
-
-## Pre-trained Model Variants
-
-- **BORT-PR** (upload ETA ≤ ACL 2023)
-- **BORT-SP** (upload ETA ≤ ACL 2023)
-- **BORT-PR-SP** (upload ETA ≤ ACL 2023)
-- **BORT-PR-NOISY** (upload ETA ≤ ACL 2023)
-- **BORT-SP-NOISY** (upload ETA ≤ ACL 2023)
-- **BORT-PR-SP-NOISY** (upload ETA ≤ ACL 2023)
+🤗&nbsp;[Huggingface model page](https://huggingface.co/palat/bort)
 
 ## Wikipedia Dataset Used in Pre-Training
 
