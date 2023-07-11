@@ -2,7 +2,7 @@
 
 BORT is a pretrained LLM that is designed to accept a mixture of English phonemes (in IPA) and orthography, made with clinical language evaluation tasks in mind. From the paper:
 
-Robert Gale, Alexandra C. Salem, Gerasimos Fergadiotis, and Steven Bedrick. 2023. [**Mixed Orthographic/Phonemic Language Modeling: Beyond Orthographically Restricted Transformers (BORT).**](./2023-acl-bort.pdf) In Proceedings of the 8th Workshop on Representation Learning for NLP (RepL4NLP-2023), pages TBD, Online. Association for Computational Linguistics.
+Robert Gale, Alexandra C. Salem, Gerasimos Fergadiotis, and Steven Bedrick. 2023. [**Mixed Orthographic/Phonemic Language Modeling: Beyond Orthographically Restricted Transformers (BORT).**](https://robertcgale.com/pub/2023-acl-bort-paper.pdf) In Proceedings of the 8th Workshop on Representation Learning for NLP (RepL4NLP-2023), pages TBD, Online. Association for Computational Linguistics. [[paper]](https://robertcgale.com/pub/2023-acl-bort-paper.pdf) [[poster]](https://robertcgale.com/pub/2023-acl-bort-poster.pdf)
 
 ## Limitations
 
